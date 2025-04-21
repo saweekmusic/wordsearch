@@ -20,7 +20,13 @@ Returns a clean 2D array that you can further customize and display however you 
 
 ## 📆 Installation
 
-Not published to PyPI (yet), but you can clone it:
+Using pip:
+
+```bash
+pip install wordsearch-gen
+```
+
+Or using GitHub:
 
 ```bash
 git clone https://github.com/saweekmusic/wordsearch.git
