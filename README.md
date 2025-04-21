@@ -18,22 +18,6 @@ Returns a clean 2D array that you can further customize and display however you 
 
 ---
 
-## 📆 Installation
-
-Not published to PyPI (yet), but you can clone it:
-
-```bash
-git clone https://github.com/saweekmusic/wordsearch.git
-```
-
-And import it locally:
-
-```python
-from wordsearch import WordSearch
-```
-
----
-
 ## 🧪 Example
 
 ```python
