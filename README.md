@@ -53,28 +53,11 @@ ws = WordSearch(words, language=Alphabets.SPANISH)
 
 ---
 
-## 📂 Project Structure
-
-```
-wordsearch/
-├── src/                # Package directory
-│   ├── alphabets.py
-│   └── wordsearch.py
-├── examples/     
-│   └── usage.py        # An example of usage
-├── README.md
-├── .gitignore
-├── LICENSE
-```
-
----
-
 ## 🤓 Who is this for?
 
 - Educators making worksheets
 - Devs wanting to visualize word data
 - Puzzle nerds (you know who you are)
-- Anyone who likes mixing logic with words
 
 ---
 
