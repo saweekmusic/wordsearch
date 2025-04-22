@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="wordsearch-gen",  # ✅ Your PyPI package name
-    version="0.1.1",
+    version="0.1.2",
     author="Sviatoslav Trofymenko",
     author_email="sviatoslavtrofymenko@icloud.com",  # Replace with your email
     description="A customizable word search puzzle generator.",

@@ -1,6 +1,6 @@
 from random import shuffle, choice
 import copy
-from alphabets import Alphabets
+from .alphabets import Alphabets
 
 # Directions for placing words: Horizontal, Vertical, and Diagonal
 DIRECTIONS = ['H', 'V', 'D']
